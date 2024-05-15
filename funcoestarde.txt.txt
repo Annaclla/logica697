@@ -1,0 +1,7 @@
+<script>
+// 9 + 10 
+funtion somar (a, b){
+            return a + b;
+} // fim da funcao
+
+</script>
